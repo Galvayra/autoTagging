@@ -1,0 +1,7 @@
+## ignore
+
+Analyze/
+Corpus/
+Dataset/*
+!Dataset/*.py
+FinalSpeechData/
